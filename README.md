@@ -3,13 +3,13 @@
 ## 공부하는 곳 출처
 [Codetorial Pandas Tutorial - 파이썬 데이터 분석 라이브러리](https://codetorial.net/pandas/object_creation.html)  
 [Pandas Documentation - DataFrame](https://pandas.pydata.org/docs/reference/frame.html)
-* Object Creation
+* 01: Object Creation
   + Series와 DataFrame
   + Series 만들기
   + DataFrame 만들기
   + csv 활용하기
 
-* Viewing Data
+* 02: Viewing Data
   + DataFrame 만들기
   + df.head() / df.tail()
   + df.index / df.columns
@@ -20,7 +20,7 @@
   + df.sort_values()
   + +추가적으로 궁금했던 점(넘파이 배열 원소의 복합적인 타입, <b>object</b>)
 
-* Selection
+* 03: Selection
   + DataFrame 만들기
   + 열 선택하기
   + 행 선택하기
@@ -28,3 +28,10 @@
   + 위치로 선택하기 (df.iloc)
   + 불리언 인덱싱
   + 데이터 설정하기
+
+* 04: Missing Data
+  + DataFrame 만들기
+  + 인덱스 변경/추가/삭제하기
+  + 누락된 데이터가 있는 행 삭제하기
+  + 누락된 데이터를 특정 값으로 채우기
+  + 누락된 데이터 참/거짓 여부 
