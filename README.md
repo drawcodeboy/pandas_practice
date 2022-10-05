@@ -59,4 +59,4 @@
   + Stack
   + Pivot tables
   
-* 09: Time series (추후 )
+* 09: Time series (추후 공부 예정)
