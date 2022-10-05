@@ -53,3 +53,10 @@
   + DataFrame 만들기
   + 한 열을 기준으로 그룹화하기
   + 여러 열을 기준으로 그룹화하기
+
+* 08: Reshaping
+  + DataFrame 만들기
+  + Stack
+  + Pivot tables
+  
+* 09: Time series (추후 )
