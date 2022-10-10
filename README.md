@@ -60,3 +60,6 @@
   + Pivot tables
   
 * 09: Time series (추후 공부 예정)
+
+* extra: 추가적으로 공부한 내용
+  + Series.factorize()
